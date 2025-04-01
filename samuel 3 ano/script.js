@@ -41,3 +41,4 @@ document.addEventListener('DOMContentLoaded', function(){
  ScrollReveal().reveal('#tropicalia', { delay: 500 });
  ScrollReveal().reveal('#galeria', { delay: 500 });
  ScrollReveal().reveal('#contato', { delay: 500 });
+ //oi man, n deixa seus projeto aberto no note, abri pra testar meus codigos e ja estava aberto
